@@ -1,0 +1,11 @@
+{
+  "name": "@esmodules/camelcase",
+  "version": "0.0.1",
+  "description": "lodash.camelcase exported as an ESM module",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
